@@ -10,16 +10,30 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 0.62h | 1 |
+| Week 1 | Tier 1 | 0.67h | 1 |
 
 ## Contents
 
-1. [2026-10-10 – Work session](#2026-10-10-work-session)
+1. [2026-10-10 – I made the schematic for the Chatterbox PCB!](#2026-10-10-i-made-the-schematic-for-the-chatterbox-pcb)
 
 ## Design
 
-### 2026-10-10 – Work session
+### 2026-10-10 – I made the schematic for the Chatterbox PCB!
 
-**0.62h**
+**0.67h**
+
+I made the schematic for the Chatterbox PCB!
+
+I used all the Starbie components, and I've also added a MAX98357A amp and the capacitor (power) it needs. The speaker  (8 Ω 1W) is wired directly to the amp, so to make stuff simpler I've not added it to the PCB.
+
+Wiring mostly follows the Starbie tutorial. For the extras, I've followed the wiring in tutorials, and the website I'm ordering the amp from.
+
+I had a bit of trouble with assigning footprints, especially to the OLED, but then I removed some filters and I got it.
+
+![Screenshot 2026-10-10 at 11.35.59 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/9002884ecf968d0962ff54b5de0f12d6469c6bbb913d4bbc3780234e50ab5808.png)
+
+The final schematic!
 
 [Timelapse](https://lookout.hackclub.com/api/media/0b4b2550-3c65-4b2b-a9d9-b8ce759aa0f7/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/cf5ac90b-c02e-4e00-a185-14124fa67d4a/video.mp4)
